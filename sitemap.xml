@@ -2,32 +2,62 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/method/</loc>
-    <lastmod>2014-12-22T22:09:37+01:00</lastmod>
+    <lastmod>2014-12-23T22:13:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/personal/</loc>
-    <lastmod>2014-12-22T22:09:37+01:00</lastmod>
+    <lastmod>2014-12-23T22:13:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/tags/</loc>
-    <lastmod>2014-12-22T22:09:37+01:00</lastmod>
+    <lastmod>2014-12-23T22:13:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/research/</loc>
-    <lastmod>2014-12-22T22:09:37+01:00</lastmod>
+    <lastmod>2014-12-23T22:13:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2014-12-22T22:09:37+01:00</lastmod>
+    <lastmod>2014-12-23T22:13:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/404.html</loc>
+    <lastmod>2014-12-22T22:10:59+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/index.html</loc>
+    <lastmod>2014-12-22T22:10:43+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/method/index.html</loc>
+    <lastmod>2014-12-22T22:10:59+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/personal/index.html</loc>
+    <lastmod>2014-12-22T22:10:59+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/research/index.html</loc>
+    <lastmod>2014-12-22T22:10:59+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/gxli.github.io/tags/index.html</loc>
+    <lastmod>2014-12-22T22:10:59+01:00</lastmod>
+    <priority>0.6</priority>
   </url>
 </urlset>
